@@ -1,0 +1,20 @@
+{
+    "id": "cn-6db-5",
+    "name": "夜趣小视频  需要的将来看看",
+    "version": "1.0",
+    "description": "开源专业影视  后端采用苹果CMS maccms",
+    "keywords": [
+        "视频",
+        "影视",
+        "课程",
+        "电影",
+        "短视频"
+    ],
+    "displayName": "开源专业影视系统【后端采用苹果CMS maccms】",
+    "dcloudext": {
+        "category": [
+            "uni-app前端模板",
+            "uni-app前端项目模板"
+        ]
+    }
+}
